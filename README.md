@@ -25,10 +25,10 @@ State_FeedBack_controller.m 输入为加速度的闭环系统的m文件
 
 动画演示文件夹
 
-	sys.m  生成整个控制系统的s函数
-	
-	pendan.m显示动画的s函数
-	
-	dh.mdl 最终的动画倒立摆simulink的搭建
+sys.m  生成整个控制系统的s函数
+
+pendan.m显示动画的s函数
+
+dh.mdl 最终的动画倒立摆simulink的搭建
 	
 	
