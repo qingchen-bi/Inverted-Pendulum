@@ -9,12 +9,8 @@ matlab倒立摆仿真代码和动画演示
 系统分析文件夹
 A .m 输入为加速度的情况下的开环系统
 F .m输入为力 开环系统
-F_Gs\.mdl输入为力的传函的simulink
-F_State.....输入为力的状态方程的simulink
-A_State.....输入为加速度的状态方程的simulink
 State_FeedBack_controller.m 输入为加速度m文件
-State_FeedBack_controller_input_F输入为力F的m文件
-State_Feedback.....01 .mdl状态反馈的闭环反馈控制器 系统的simulink
+系统的simulink搭建很简单，自己可以尝试。
 
 
 dh文件夹
