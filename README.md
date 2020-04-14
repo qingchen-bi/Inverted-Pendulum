@@ -13,7 +13,7 @@ State_FeedBack_controller.m 输入为加速度m文件
 系统的simulink搭建很简单，自己可以尝试。
 
 
-dh文件夹
+动画演示文件夹
 	sys.m  生成整个控制系统的s函数
 	pendan.m显示动画的s函数
 	dh.mdl 最终的动画倒立摆
